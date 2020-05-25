@@ -1,3 +1,3 @@
 function wek(){
-console.log();
+console.log("content");
 }
