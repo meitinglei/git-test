@@ -1,5 +1,5 @@
 function wek(){
-console.log("修改内 容");
+console.log("查看做了哪些更改");
 }
 
 
